@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Breakfast sandwich",
+        "id": "1",
+        "price": {
+            "currency": "dkk",
+            "amount": 50
+        },
+        "listOfDrinks": ["water", "juice", "saft vand"],
+        "orderExtras": ["extra cheese", "ketchup"]
+    },
+    {
+        "name": "Lunch sandwich",
+        "id": "2",
+        "price": {
+            "currency": "dkk",
+            "amount": 80
+        },
+        "listOfDrinks": ["water"],
+        "orderExtras": ["ice cream"]
+    }
+]
